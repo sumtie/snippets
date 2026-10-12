@@ -110,8 +110,3 @@ ss://YWVzLTEyOC1nY206NDk1YzcxOTUtODViOC00OThhLWJmMjAtMmVhOWNlOTE3NWI1@www.shopif
 ## 开源协议
 **[MIT](LICENSE) © 2026 gabou** —— 自由使用、修改、分发（含商用），保留版权与许可声明即可；软件按「原样」提供，不附带任何担保。
 
----
-## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=jacobax/snippets&type=Date)](https://star-history.com/#jacobax/snippets&Date)
-
-> 如有帮助，欢迎点 ⭐，权当鼓励。
