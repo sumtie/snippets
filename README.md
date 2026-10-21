@@ -1,3 +1,7 @@
+origin: https://github.com/jacobax/snippets
+
+thakns jacobax
+
 ## 前排劝退
 **不回答“怎么用”这类问题；无前端、无订阅，专注代理本身：极致直连 + 多落地协议。**  
 **仅适合对 CF 节点有一定基础的同学，至少会用节点模板修改节点信息。订阅可自行搭配 [EDT](https://github.com/cmliu/edgetunnel) 或订阅器实现。**
