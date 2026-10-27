@@ -1,6 +1,6 @@
 origin: https://github.com/jacobax/snippets
 
-thanks jacobax
+thank jacobax
 
 ## 前排劝退
 **不回答“怎么用”这类问题；无前端、无订阅，专注代理本身：极致直连 + 多落地协议。**  
